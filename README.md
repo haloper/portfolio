@@ -5,7 +5,7 @@
 
 ### OpenTide Korea & MIRACOM INC
 
-__통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)__
+#### 통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)
 
 기존에 개별로만 진행 가능했던 Video/Audio/Web conference를 동시에 진행할 수 있도록 지원하는 서비스 개발
 
@@ -16,7 +16,7 @@ __통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)__
     * 레거시 시스템 refectoring
   * Skills : Java, Spring, MS-SQL, MyBatis, MCU API
 
-__Tizen Store Seller - [web](http://seller.tizenstore.com/)__
+#### Tizen Store Seller - [web](http://seller.tizenstore.com/)
 
 Tizen 단말의 app store인 Tizen Store의 Seller site 개발
 
@@ -29,7 +29,7 @@ Tizen 단말의 app store인 Tizen Store의 Seller site 개발
 
 ### ESTSoft
 
-__Altools, Alyac API Server__
+#### Altools, Alyac API Server
 
 알툴즈, 알약 제품과 통신하는 API 서버 개발 진행
 
@@ -40,7 +40,7 @@ __Altools, Alyac API Server__
     * 알약 장애알림 서비스 신규 개발
   * Skills : Java, Spring, MySQL, Mybatis, Restful API, Javascript, jQuery
   
-__Windows 8 ALSee application__
+#### Windows 8 ALSee application
 
   * 개발기간 : 2012.04 ~ 2013.05
   * 역할
@@ -57,9 +57,8 @@ __Windows 8 ALSee application__
   <img src="./alsee/screenshot2.jpeg" width="300px">
   <img src="./alsee/screenshot3.jpeg" width="300px">
   <img src="./alsee/screenshot4.jpeg" width="300px">
-  <img src="./alsee/screenshot5.jpeg" width="300px">
 
-__ESTSoft Web service__
+#### ESTSoft Web service
 
   * 개발기간 : 2010.12 ~ 2012.04
   * 역할
@@ -72,7 +71,7 @@ __ESTSoft Web service__
 
 ### 개인 projects
 
-__ObjectWrapper (https://github.com/haloper/js-object-wrapper)__
+#### ObjectWrapper (https://github.com/haloper/js-object-wrapper)
 
   * 개발 시기 : 2016
   * Javascript library
@@ -85,7 +84,7 @@ __ObjectWrapper (https://github.com/haloper/js-object-wrapper)__
     * AMD, CommonJS 지원
   * Skills : Javascript, Jasmine (UnitTest)
    
-__Nonlinear random (https://github.com/haloper/nonlinear-random)__
+#### Nonlinear random (https://github.com/haloper/nonlinear-random)
 
   * 개발 시기 : 2016
   * Javascript library
@@ -96,12 +95,12 @@ __Nonlinear random (https://github.com/haloper/nonlinear-random)__
     * AMD, CommonJS 지원
   * Skills : Javascript, Jasmine (UnitTest)
  
-__PlayColor__
+#### PlayColor
 
   * 개발 시기 : 2014
   * Android application
   * 아이들이  
 
-__SmartMode__
+#### SmartMode
 
   * 개발 시기 : 2009
