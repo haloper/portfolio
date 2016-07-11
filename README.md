@@ -74,8 +74,8 @@ Windows 8 출시에 맞춰 새로운 사진 편집 application을 HTML5 & javasc
 
   * 개발기간 : 2010.12 ~ 2012.04
   * 역할
-    * [이스트소프트 사이트](www.estsoft.co.kr) 개선
-    * [알툴즈 사이트](www.altools.co.kr) 개선
+    * [이스트소프트 사이트](http://www.estsoft.co.kr) 개선
+    * [알툴즈 사이트](http://www.altools.co.kr) 개선
     * 영업관리 시스템 (리셀러 관리 서비스) 신규 개발
     * 알툴즈, 알약 제품 매출 관리 시스템 개선
   * Skills : C#, .net, MS-SQL, Javascript, jQuery, Winform, SOAP
@@ -115,7 +115,7 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
 
   * 개발 시기 : 2014
   * Android application
-  * 카메라 연동 game framework 직접 개발
+  * 카메라 연동 game framework 개발
     * Resource 관리 : bitmap, audio, mask, resouce grouping
     * Animation : frame animation, transform, 색상 및 투명도 변환 animation
     * Event : graphic resource의 touch event, animation event
