@@ -1,18 +1,16 @@
-# Portfolio
-
 김진훈 (82.04.07)
 
 https://github.com/haloper
 
-## Projects
+# Projects
 
-### OpenTide Korea & MIRACOM Inc
+## OpenTide Korea & MIRACOM Inc
 
 2013-06-03 ~
 
 OpenTide Korea로 입사 이후 MIRACOM Inc로 합병됨
 
-#### 통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)
+### 통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)
 
 기존에 개별로만 진행 가능했던 Video/Audio/Web conference를 동시에 진행할 수 있도록 지원하는 서비스 입니다.
 
@@ -23,7 +21,7 @@ OpenTide Korea로 입사 이후 MIRACOM Inc로 합병됨
     * 레거시 시스템 refectoring
   * Skills : Java, Spring, MS-SQL, MyBatis, MCU API
 
-#### Tizen Store Seller - [web](http://seller.tizenstore.com/)
+### Tizen Store Seller - [web](http://seller.tizenstore.com/)
 
 Tizen Store는 Tizen 단말에 포함된 app store이며, Seller 사이트는 개발자가 app을 등록하고 관리하는 서비스 입니다.
 
@@ -34,11 +32,11 @@ Tizen Store는 Tizen 단말에 포함된 app store이며, Seller 사이트는 �
     * 현장관리자 임무 수행
   * Skills :  Java, Spring, Oracle, MyBatis, Javascript, jQuery
 
-### ESTSoft
+## ESTSoft
 
 2010-12-21 ~ 2013-05-17
 
-#### Altools, Alyac API Server
+### Altools, Alyac API Server
 
 알툴즈, 알약 client 제품과 연동하는 API server를 개발하였습니다.
 
@@ -49,7 +47,7 @@ Tizen Store는 Tizen 단말에 포함된 app store이며, Seller 사이트는 �
     * 알약 장애알림 서비스 (알약 정상 실행 여부를 모니터링하고 접속 스케쥴을 관리해서 알약 비정상 사용 시 사용자에게 알림을 주는 서비스) 신규 개발 진행
   * Skills : Java, Spring, MySQL, Mybatis, Restful API, Javascript, jQuery
   
-#### Windows 8 ALSee application
+### Windows 8 ALSee application
 
 Windows 8 출시에 맞춰 새로운 사진 편집 application을 HTML5 & javascript 기반으로 개발했습니다. 사진 뷰어 기능은 제외하고, 터치만으로 손쉽게 사진을 편집할 수 있는 기능에 집중했습니다. (ALSee가 왜 사진 뷰어 기능이 없냐며 욕을 많이 먹기도 했습니다)
 
@@ -68,7 +66,7 @@ Windows 8 출시에 맞춰 새로운 사진 편집 application을 HTML5 & javasc
   <img src="./alsee/screenshot3.jpeg" width="300px">
   <img src="./alsee/screenshot4.jpeg" width="300px">
 
-#### ESTSoft Web service
+### ESTSoft Web service
 
 이스트소프트 대내외로 사용되는 다양한 web server를 개발했습니다.
 
@@ -81,9 +79,9 @@ Windows 8 출시에 맞춰 새로운 사진 편집 application을 HTML5 & javasc
   * Skills : C#, .net, MS-SQL, Javascript, jQuery, Winform, SOAP
   * 회원 관리, 구매, 제품 출시, 채용, 매출 관리 등 다양한 업무 프로세스 경험
 
-### 개인 projects
+## 개인 projects
 
-#### ObjectWrapper (https://github.com/haloper/js-object-wrapper)
+### ObjectWrapper (https://github.com/haloper/js-object-wrapper)
 
 Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시 설정 정보 같은 복잡한 사용자 정보를 손쉽게 관리하고 변경 사항을 서버에 쉽게 반영할 수 있습니다.
 
@@ -97,7 +95,7 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
     * AMD, CommonJS 지원
   * Skills : Javascript, Jasmine (UnitTest)
    
-#### Nonlinear random (https://github.com/haloper/nonlinear-random)
+### Nonlinear random (https://github.com/haloper/nonlinear-random)
 
 영어 단어 공부를 위해 간단한 web page를 만들어 사용하던 중, 문득 최근에 등록한 단어가 좀 더 자주 노출됐으면 좋겠다는 생각이 들었습니다. 그래서 모든 값이 고르게 생성되는 random 함수가 아닌, 다양한 형태로 변형 가능한 random 함수를 개발하였습니다.
   
@@ -109,7 +107,7 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
     * AMD, CommonJS 지원
   * Skills : Javascript, Jasmine (UnitTest)
  
-#### PlayColor
+### PlayColor
 
 아이들이 스마트폰을 가지고 좀 더 동적으로 놀 수 있도록 하기 위해서 만들어 본 android application입니다. 정해진 색을 주위에서 찾아보는 단순한 놀이용 app입니다.
 
@@ -125,7 +123,7 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
 <img src="./playcolor/screenshot3.jpg" width="300px">
 <img src="./playcolor/screenshot4.jpg" width="300px">
 
-#### SmartMode
+### SmartMode
 
 안드로이드 국내에 도입되던 시기에 공부삼아 만들어본 application입니다. 단순한 매너모드 대신에 사용자의 환경에 맞는 다양한 모드를 지원합니다. 몇 가지 예를 들어보면 아래와 같습니다.
 
