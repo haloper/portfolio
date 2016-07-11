@@ -1,10 +1,16 @@
 # Portfolio
+
 김진훈 (82.04.07)
+
 https://github.com/haloper
 
 ## Projects
 
-### OpenTide Korea & MIRACOM INC
+### OpenTide Korea & MIRACOM Inc
+
+2013-06-03 ~
+
+OpenTide Korea로 입사 이후 MIRACOM Inc로 합병됨
 
 #### 통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)
 
@@ -30,6 +36,8 @@ Tizen Store는 Tizen 단말에 포함된 app store이며, Seller 사이트는 �
 
 ### ESTSoft
 
+2010-12-21 ~ 2013-05-17
+
 #### Altools, Alyac API Server
 
 알툴즈, 알약 client 제품과 연동하는 API server를 개발하였습니다.
@@ -47,8 +55,7 @@ Windows 8 출시에 맞춰 새로운 사진 편집 application을 HTML5 & javasc
 
   * 개발기간 : 2012.04 ~ 2013.05
   * 역할
-    * Windows 8 Store용 이미지 편집 Application\
-    (animation, transition, layering, filtering, event handling) 구현
+    * Windows 8 Store용 이미지 편집 Application (animation, transition, layering, filtering, event handling) 구현
   * Skills : HTML5 (Canvas, Web worker), Javascript, Windows Store Application
   * 국내 노트북 제조사의 번들앱으로 제공됨
 
@@ -82,7 +89,6 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
 
   * 개발 시기 : 2016
   * Javascript library
-  * 목적 : 
   * 주요 기능
     * 복잡한 구조의 object를 쉽게 탐색하고 수정 가능 - method chaining
     * Objbect 구조상의 모든 property 순회 (ForEachAll)
@@ -123,9 +129,13 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
 
 안드로이드 국내에 도입되던 시기에 공부삼아 만들어본 application입니다. 단순한 매너모드 대신에 사용자의 환경에 맞는 다양한 모드를 지원합니다. 몇 가지 예를 들어보면 아래와 같습니다.
 
-  * 수면 모드 : 중요한 전화만 수신되고 불필요한 전화는 자동으로 차단해 주는 모드입니다. 
-  * 영화 관람 모드 : 모든 전화를 차단하고 발신자에게 영화 종료시간을 문자로 발송합니다.
-  * 도서관 모드 : 진동 소리를 흉내낸 밸소리로 전환됩니다. (책상위에 핸드폰이 진동해서 책상이 큰소리로 울리는걸 방지합니다)
+수면 모드 : 중요한 전화만 수신되고 불필요한 전화는 자동으로 차단해 주는 모드입니다. 
+
+영화 관람 모드 : 모든 전화를 차단하고 발신자에게 영화 종료시간을 문자로 발송합니다.
+
+도서관 모드 : 진동 소리를 흉내낸 밸소리로 전환됩니다. (책상위에 핸드폰이 진동해서 책상이 큰소리로 울리는걸 방지합니다)
+
+추가로 다양한 설정들을 조합하여, 자신만의 모드를 만들 수도 있습니다.
 
   * 개발 시기 : 2009
   * Android application
