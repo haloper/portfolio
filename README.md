@@ -1,6 +1,6 @@
 # Portfolio
 김진훈 (82.04.07)
-(https://github.com/haloper)
+https://github.com/haloper
 
 ## Projects
 
@@ -114,10 +114,10 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
     * Animation : frame animation, transform, 색상 및 투명도 변환 animation
     * Event : graphic resource의 touch event, animation event
 
-<img src="./playcolor/screenshot1.jpeg" width="300px">
-<img src="./playcolor/screenshot2.jpeg" width="300px">
-<img src="./playcolor/screenshot3.jpeg" width="300px">
-<img src="./playcolor/screenshot4.jpeg" width="300px">
+<img src="./playcolor/screenshot1.jpg" width="300px">
+<img src="./playcolor/screenshot2.jpg" width="300px">
+<img src="./playcolor/screenshot3.jpg" width="300px">
+<img src="./playcolor/screenshot4.jpg" width="300px">
 
 #### SmartMode
 
@@ -130,6 +130,6 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
   * 개발 시기 : 2009
   * Android application
 
-<img src="./smartmode/screenshot1.jpeg" width="180px">
-<img src="./smartmode/screenshot2.jpeg" width="180px">
+<img src="./smartmode/screenshot1.png" width="180px">
+<img src="./smartmode/screenshot2.png" width="180px">
 
