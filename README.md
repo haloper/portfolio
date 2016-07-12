@@ -10,7 +10,7 @@ https://github.com/haloper
 
 OpenTide Korea로 입사 이후 MIRACOM Inc로 합병됨
 
-### 통합컨퍼런스 - [web](https://sds.wyzmeeting.com/)
+### 통합컨퍼런스 - [link](https://sds.wyzmeeting.com/)
 
 기존에 개별로만 진행 가능했던 Video/Audio/Web conference를 동시에 진행할 수 있도록 지원하는 서비스 입니다.
 
@@ -21,7 +21,7 @@ OpenTide Korea로 입사 이후 MIRACOM Inc로 합병됨
     * 레거시 시스템 refectoring
   * Skills : Java, Spring, MS-SQL, MyBatis, MCU API
 
-### Tizen Store Seller - [web](http://seller.tizenstore.com/)
+### Tizen Store Seller - [link](http://seller.tizenstore.com/)
 
 Tizen Store는 Tizen 단말에 포함된 app store이며, Seller 사이트는 개발자가 app을 등록하고 관리하는 서비스 입니다.
 
@@ -116,7 +116,8 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
   * 카메라 연동 game framework 개발
     * Resource 관리 : bitmap, audio, mask, resouce grouping
     * Animation : frame animation, transform, 색상 및 투명도 변환 animation
-    * Event : graphic resource의 touch event, animation event
+    * Event : resource 관련 event, animation event
+    * Debugging : fps(frames per second)
 
 <img src="./playcolor/screenshot1.jpg" width="300px">
 <img src="./playcolor/screenshot2.jpg" width="300px">
