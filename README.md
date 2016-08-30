@@ -89,7 +89,7 @@ Javascript Object에 부가기능을 제공해 주는 library로, Web 개발 시
   * Javascript library
   * 주요 기능
     * 복잡한 구조의 object를 쉽게 탐색하고 수정 가능 - method chaining
-    * Objbect 구조상의 모든 property 순회 (ForEachAll)
+    * Object 구조상의 모든 property 순회 (ForEachAll)
     * Object의 특정 상태값을 저장하고, 이후 변경사항을 추적하거나, 저장된 상태값으로 복원 가능
     * Object 동일성 비교
     * AMD, CommonJS 지원
